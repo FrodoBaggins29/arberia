@@ -5,7 +5,7 @@
   
    {
     "id": 0,
-    "href": "http://localhost:1313/video-post-view/",
+    "href": "https://frodobaggins29.github.io/arberia/video-post-view/",
     "title": "Video Post View",
     "section": "posts",
     "date" : "2022.07.09",
@@ -15,7 +15,7 @@
   ,
    {
     "id": 1,
-    "href": "http://localhost:1313/video-post-view/",
+    "href": "https://frodobaggins29.github.io/arberia/video-post-view/",
     "title": "Video Post View",
     "section": "posts",
     "date" : "2022.07.09",
@@ -25,7 +25,7 @@
   ,
    {
     "id": 2,
-    "href": "http://localhost:1313/portfolio/lorem-ipsum/",
+    "href": "https://frodobaggins29.github.io/arberia/portfolio/lorem-ipsum/",
     "title": "What is Lorem Ipsum?",
     "section": "portfolio",
     "date" : "2022.05.15",
@@ -35,7 +35,7 @@
   ,
    {
     "id": 3,
-    "href": "http://localhost:1313/portfolio/python-rock-paper-scissors-game/",
+    "href": "https://frodobaggins29.github.io/arberia/portfolio/python-rock-paper-scissors-game/",
     "title": "Python Rock Paper Scissors Game",
     "section": "portfolio",
     "date" : "2022.05.15",
@@ -45,7 +45,7 @@
   ,
    {
     "id": 4,
-    "href": "http://localhost:1313/about/",
+    "href": "https://frodobaggins29.github.io/arberia/about/",
     "title": "About Me",
     "section": "",
     "date" : "2022.04.26",
@@ -55,7 +55,7 @@
   ,
    {
     "id": 5,
-    "href": "http://localhost:1313/post-without-sidebar/",
+    "href": "https://frodobaggins29.github.io/arberia/post-without-sidebar/",
     "title": "Post without sidebar",
     "section": "posts",
     "date" : "2022.04.26",
@@ -65,7 +65,7 @@
   ,
    {
     "id": 6,
-    "href": "http://localhost:1313/post-with-sidebar/",
+    "href": "https://frodobaggins29.github.io/arberia/post-with-sidebar/",
     "title": "Post with sidebar",
     "section": "posts",
     "date" : "2020.10.15",
@@ -75,7 +75,7 @@
   ,
    {
     "id": 7,
-    "href": "http://localhost:1313/start-here/",
+    "href": "https://frodobaggins29.github.io/arberia/start-here/",
     "title": "Start Here",
     "section": "posts",
     "date" : "2020.10.15",
@@ -85,7 +85,7 @@
   ,
    {
     "id": 8,
-    "href": "http://localhost:1313/portfolio/data-classes-python/",
+    "href": "https://frodobaggins29.github.io/arberia/portfolio/data-classes-python/",
     "title": "Using Data Classes in Python",
     "section": "portfolio",
     "date" : "2022.05.15",
@@ -95,7 +95,7 @@
   ,
    {
     "id": 9,
-    "href": "http://localhost:1313/portfolio/why-do-we-use-it/",
+    "href": "https://frodobaggins29.github.io/arberia/portfolio/why-do-we-use-it/",
     "title": "Why do we use it?",
     "section": "portfolio",
     "date" : "2022.05.15",
@@ -105,7 +105,7 @@
   ,
    {
     "id": 10,
-    "href": "http://localhost:1313/portfolio/testing-code-pytest/",
+    "href": "https://frodobaggins29.github.io/arberia/portfolio/testing-code-pytest/",
     "title": "Testing Your Code With pytest",
     "section": "portfolio",
     "date" : "2022.05.15",
@@ -115,7 +115,7 @@
   ,
    {
     "id": 11,
-    "href": "http://localhost:1313/portfolio/building-django-user-management-system/",
+    "href": "https://frodobaggins29.github.io/arberia/portfolio/building-django-user-management-system/",
     "title": "Building a Django User Management System",
     "section": "portfolio",
     "date" : "2022.05.15",
@@ -125,7 +125,7 @@
   ,
    {
     "id": 12,
-    "href": "http://localhost:1313/portfolio/where-can-i-get-some/",
+    "href": "https://frodobaggins29.github.io/arberia/portfolio/where-can-i-get-some/",
     "title": "Where can I get some?",
     "section": "portfolio",
     "date" : "2022.05.15",
@@ -135,7 +135,7 @@
   ,
    {
     "id": 13,
-    "href": "http://localhost:1313/portfolio/where-does-it-come-from/",
+    "href": "https://frodobaggins29.github.io/arberia/portfolio/where-does-it-come-from/",
     "title": "Where does it come from?",
     "section": "portfolio",
     "date" : "2022.05.15",
@@ -145,7 +145,7 @@
   ,
    {
     "id": 14,
-    "href": "http://localhost:1313/markdown-syntax/",
+    "href": "https://frodobaggins29.github.io/arberia/markdown-syntax/",
     "title": "Markdown Syntax",
     "section": "posts",
     "date" : "2019.12.01",
@@ -155,7 +155,7 @@
   ,
    {
     "id": 15,
-    "href": "http://localhost:1313/all-video-tutorial/",
+    "href": "https://frodobaggins29.github.io/arberia/all-video-tutorial/",
     "title": "All Video Tutorial",
     "section": "posts",
     "date" : "2022.07.17",
@@ -165,7 +165,7 @@
   ,
    {
     "id": 16,
-    "href": "http://localhost:1313/arberia-features/",
+    "href": "https://frodobaggins29.github.io/arberia/arberia-features/",
     "title": "Arberia Features",
     "section": "posts",
     "date" : "2022.07.27",
@@ -175,7 +175,7 @@
   ,
    {
     "id": 17,
-    "href": "http://localhost:1313/arberia-installation-update/",
+    "href": "https://frodobaggins29.github.io/arberia/arberia-installation-update/",
     "title": "Arberia Installation | Update",
     "section": "posts",
     "date" : "2022.07.27",
@@ -185,7 +185,7 @@
   ,
    {
     "id": 18,
-    "href": "http://localhost:1313/build-in-shortcodes/",
+    "href": "https://frodobaggins29.github.io/arberia/build-in-shortcodes/",
     "title": "Build in Shortcodes",
     "section": "posts",
     "date" : "2022.07.22",
@@ -195,7 +195,7 @@
   ,
    {
     "id": 19,
-    "href": "http://localhost:1313/post-with-cover-image/",
+    "href": "https://frodobaggins29.github.io/arberia/post-with-cover-image/",
     "title": "Post with Cover Image",
     "section": "posts",
     "date" : "2022.07.06",
@@ -205,7 +205,7 @@
   ,
    {
     "id": 20,
-    "href": "http://localhost:1313/code-sample/",
+    "href": "https://frodobaggins29.github.io/arberia/code-sample/",
     "title": "Code Sample",
     "section": "posts",
     "date" : "2022.06.24",
@@ -215,7 +215,7 @@
   ,
    {
     "id": 21,
-    "href": "http://localhost:1313/landingpage/",
+    "href": "https://frodobaggins29.github.io/arberia/landingpage/",
     "title": "Landingpage",
     "section": "",
     "date" : "2022.05.20",
@@ -225,7 +225,7 @@
   ,
    {
     "id": 22,
-    "href": "http://localhost:1313/policy-privacy/",
+    "href": "https://frodobaggins29.github.io/arberia/policy-privacy/",
     "title": "Policy \u0026 Privacy",
     "section": "",
     "date" : "2022.05.19",
@@ -235,7 +235,7 @@
   ,
    {
     "id": 23,
-    "href": "http://localhost:1313/extended-shortcode/",
+    "href": "https://frodobaggins29.github.io/arberia/extended-shortcode/",
     "title": "Extended Shortcode",
     "section": "posts",
     "date" : "2022.05.01",
@@ -245,7 +245,7 @@
   ,
    {
     "id": 24,
-    "href": "http://localhost:1313/books/",
+    "href": "https://frodobaggins29.github.io/arberia/books/",
     "title": "All recommended books",
     "section": "",
     "date" : "2022.04.26",
@@ -255,7 +255,7 @@
   ,
    {
     "id": 25,
-    "href": "http://localhost:1313/contact/",
+    "href": "https://frodobaggins29.github.io/arberia/contact/",
     "title": "Contact",
     "section": "",
     "date" : "2022.04.26",
@@ -265,7 +265,7 @@
   ,
    {
     "id": 26,
-    "href": "http://localhost:1313/more-on-markdown/",
+    "href": "https://frodobaggins29.github.io/arberia/more-on-markdown/",
     "title": "More on Markdown",
     "section": "posts",
     "date" : "2022.04.26",
